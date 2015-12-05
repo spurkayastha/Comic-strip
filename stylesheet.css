@@ -1,0 +1,29 @@
+/*CSS Stylesheet*/
+
+/** {border: 1px solid black;}*/
+
+body {
+    margin: 0;
+;
+}
+img {
+    max-width: 100%;
+}
+.twelve h2 {
+    padding-left: 40px;
+}
+.one-third h2 {
+    text-align: right;
+    padding-right: 0;
+}
+
+
+h1{color: red; font-weight:bolder; font-size: 70px;
+    opacity: 70%; font-family: 'Bangers', cursive; font-stretch:expanded;font-weight: 100;}
+
+
+h2{color: red; font-weight:bolder; font-size: 30px;
+    opacity: 70%; font-family: 'Bangers', cursive; font-stretch:expanded;font-weight: 100;}
+
+
+#credit{float: right;}
